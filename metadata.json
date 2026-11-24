@@ -1,0 +1,6 @@
+{
+  "name": "Pocketly",
+  "description": "Private, strictly offline personal finance tracker with 3-tap logging, budgets, yield investments, and compound growth calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

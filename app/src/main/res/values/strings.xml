@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pocketly</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_invest">Invest</string>
+    <string name="nav_profile">Profile</string>
+    <string name="local_data_only">Local data only</string>
+    <string name="privacy_promise">Your data never leaves this phone.</string>
+    <string name="estimate_disclaimer">Estimate, not financial advice.</string>
+    <string name="error_amount_zero">Enter an amount above 0.</string>
+    <string name="error_pin_mismatch">That PIN doesn\'t match. Try again.</string>
+    <string name="error_same_account">Choose a different account for the transfer.</string>
+    <string name="empty_home_title">Nothing logged yet</string>
+    <string name="empty_budgets_title">No budgets yet. Set one to see your pace.</string>
+    <string name="empty_invest_title">No investments yet. Add one or try the calculator.</string>
+    <string name="empty_activity_title">You\'re all caught up</string>
+    <string name="empty_scheduled_title">No scheduled items yet</string>
+</resources>
